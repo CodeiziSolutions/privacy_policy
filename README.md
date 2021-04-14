@@ -1,38 +1,48 @@
-# Teste
-Política de privacidade - Google Play
-Versão 1.02 – abril/2021
-Controlador de Dados e Proprietário
-Tipos de Dados coletados
+# Política de privacidade - Google Play
+
+### Versão 1.02 – abril/2021
+
+## Controlador de Dados e Proprietário
+
+## Tipos de Dados coletados
+
 Entre os tipos de Dados Pessoais que este Aplicativo recolhe, por si só ou por meio
 terceiros, estão: nome, sobrenome, e-mail, Cookie, Dados de Uso, Permissão de
 câmera, Permissão de armazenamento, Permissão de sensores de movimento e
 Permissão de compartilhamento de Bluetooth.
 Detalhes completos sobre cada tipo de Dados Pessoais coletados são fornecidos nas
 seções dedicadas desta política de privacidade ou por textos explicativos específicos
-exibidos antes da coleta de Dados. 
+exibidos antes da coleta de Dados.
+
 Os Dados Pessoais poderão ser fornecidos livremente pelo Usuário, ou, no caso dos
-Dados de Utilização, coletados automaticamente ao se utilizar este Aplicativo. 
+Dados de Utilização, coletados automaticamente ao se utilizar este Aplicativo.
+
 Todos os Dados solicitados por este Aplicativo são obrigatórios e a falta de fornecimento
 destes Dados poderá impossibilitar este Aplicativo de fornecer os seus serviços. Nos
 casos em que este Aplicativo afirmar especificamente que alguns Dados não forem
 obrigatórios, os Usuários ficam livres para deixarem de comunicar estes Dados sem
 nenhuma consequência para a disponibilidade ou o funcionamento deste serviço (este
-Aplicativo). 
+Aplicativo).
+
 Os Usuários que tiverem dúvidas a respeito de quais Dados Pessoais são obrigatórios
-estão convidados a entrar em contato com o Proprietário. 
+estão convidados a entrar em contato com o Proprietário.
+
 Quaisquer usos de cookies – ou de outras ferramentas de rastreamento – por este
 Aplicativo serão para a finalidade de fornecer os serviços solicitados pelo Usuário, além
 das demais finalidades descritas no presente documento e na Política de Cookies, se
 estiver disponível.
+
 Os Usuários ficam responsáveis por quaisquer Dados Pessoais de terceiros que forem
 obtidos, publicados ou compartilhados através deste serviço (este Aplicativo) e
 confirmam que possuem a autorização dos terceiros para fornecerem os Dados para o
 Proprietário.
-Modo e local de processamento dos Dados
-Método de processamento
+
+## Modo e local de processamento dos Dados
+### Método de processamento
 O Controlador de Dados processa os dados de Usuários de forma adequada e tomará
 as medidas de segurança adequadas para impedir o acesso não autorizado, divulgação,
-alteração ou destruição não autorizada dos Dados. 
+alteração ou destruição não autorizada dos Dados.
+
 O processamento de dados é realizado utilizando computadores e /ou ferramentas de
 TI habilitadas, seguindo procedimentos organizacionais e meios estritamente
 relacionados com os fins indicados. Além do Controlador de Dados, em alguns casos,
@@ -42,22 +52,30 @@ externas (como fornecedores terceirizados de serviços técnicos, carteiros, pro
 de hospedagem, empresas de TI, agências de comunicação) nomeadas, quando
 necessário, como Processadores de Dados por parte do
 Proprietário.2
-Lugar
+
+### Lugar
+
 Os dados são processados nos sedes de operação do Controlador de Dados, e em
 quaisquer outros lugares onde as partes envolvidas com o processamento estejam
 localizadas. Para mais informações, por favor entre em contato com o Controlador de
 Dados.
-Período de conservação
+
+### Período de conservação
+
 Os Dados são mantidos pelo período necessário para prestar o serviço solicitado pelo
 Usuário, ou pelos fins descritos neste documento, e o Usuário pode solicitar o
 Controlador de Dados para que os suspenda ou remova.
-O Uso dos Dados coletados
+
+### O Uso dos Dados coletados
+
 Os Dados relativos ao Usuário são coletados para permitir que o Proprietário forneça
 os serviços, bem como para os seguintes propósitos: Contatar o Usuário e Permissões
 de dispositivos para acesso a Dados Pessoais.
 Os Dados Pessoais utilizados para cada finalidade estão descritos nas seções específicas
 deste documento.
-Permissões de dispositivos para acesso a Dados Pessoais
+
+### Permissões de dispositivos para acesso a Dados Pessoais
+
 Dependendo do dispositivo específico do Usuário, este Aplicativo pode solicitar certas
 permissões que permitem-no acessar os Dados do dispositivo do Usuário conforme
 descrito abaixo.
@@ -66,21 +84,29 @@ respectivas informações possam ser acessadas. Uma vez que a permissão tenha s
 dada, esta pode ser revogada pelo Usuário a qualquer momento. Para poder revogar
 estas permissões os Usuários devem consultar as configurações do dispositivo ou entrar
 em contato com o Proprietário para receber suporte através dos dados para contato
-fornecidos no presente documento. 
+fornecidos no presente documento.
+
 O procedimento exato para controlar as permissões de aplicativos poderá depender
 dos dispositivo e software do Usuário.
+
 Por favor observar que a revogação de tais permissões poderá afetar o funcionamento
 apropriado do este Aplicativo
+
 Se o Usuário conceder quaisquer das permissões relacionadas abaixo, estes Dados
 Pessoais respectivos poderão ser processados (isto é, acessados, modificados ou
 removidos) por este Aplicativo.
-Permissão de armazenamento
+
+### Permissão de armazenamento
+
 Usada para acessar o armazenamento externo compartilhado, inclusive a leitura
 e o acréscimo de quaisquer itens.
-Permissão de câmera
+
+### Permissão de câmera
+
 Usada para acessar a câmera ou capturar imagens e vídeo do dispositivo.3
 Informações detalhadas sobre o processamento de Dados
-Pessoais
+
+### Pessoais
 Os Dados Pessoais são recolhidos para os seguintes fins e utilizando os seguintes
 serviços:
 Contatar o Usuário 
@@ -205,7 +231,7 @@ A ferramenta de hardware ou software pela qual os Dados Pessoais do usuário sã
 coletados.
 Cookie
 Pequenas unidades de dados armazenados no dispositivo do Usuário.
-Notificação Jurídica
+### Notificação Jurídica
 Aviso aos Usuários Europeus: esta declaração de privacidade foi elaborada em
 cumprimento das obrigações nos termos do art. n.10 da Diretiva 95/46/CE, e de acordo
 com as disposições da Diretiva 2002/58/CE, tal como revisto pela Diretiva
@@ -224,4 +250,5 @@ Permissões de dispositivos para acesso a Dados Pessoais
 Permissões de dispositivos para acesso a Dados Pessoais
 Dados Pessoais: Permissão de armazenamento, Permissão de
 câmera.
+
 Última atualização: 13/04/2021
