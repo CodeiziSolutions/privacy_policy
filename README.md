@@ -1,15 +1,14 @@
 # Política de privacidade - Google Play
 
-### Versão 1.02 – abril/2021
+## Versão 1.0.2 – abril/2021
 
 ## Controlador de Dados e Proprietário
 
 ## Tipos de Dados coletados
 
 Entre os tipos de Dados Pessoais que este Aplicativo recolhe, por si só ou por meio
-terceiros, estão: nome, sobrenome, e-mail, Cookie, Dados de Uso, Permissão de
-câmera, Permissão de armazenamento, Permissão de sensores de movimento e
-Permissão de compartilhamento de Bluetooth.
+terceiros, estão: e-mail, Cookie, Dados de Uso, Permissão de
+câmera, Permissão de armazenamento.
 Detalhes completos sobre cada tipo de Dados Pessoais coletados são fornecidos nas
 seções dedicadas desta política de privacidade ou por textos explicativos específicos
 exibidos antes da coleta de Dados.
@@ -38,7 +37,8 @@ confirmam que possuem a autorização dos terceiros para fornecerem os Dados par
 Proprietário.
 
 ## Modo e local de processamento dos Dados
-### Método de processamento
+## Método de processamento
+
 O Controlador de Dados processa os dados de Usuários de forma adequada e tomará
 as medidas de segurança adequadas para impedir o acesso não autorizado, divulgação,
 alteração ou destruição não autorizada dos Dados.
@@ -51,7 +51,7 @@ do site (administração, vendas, marketing, administração legal do sistema) o
 externas (como fornecedores terceirizados de serviços técnicos, carteiros, provedores
 de hospedagem, empresas de TI, agências de comunicação) nomeadas, quando
 necessário, como Processadores de Dados por parte do
-Proprietário.2
+Proprietário.
 
 ### Lugar
 
@@ -103,8 +103,7 @@ e o acréscimo de quaisquer itens.
 
 ### Permissão de câmera
 
-Usada para acessar a câmera ou capturar imagens e vídeo do dispositivo.3
-Informações detalhadas sobre o processamento de Dados
+Usada para acessar a câmera ou capturar imagens e vídeo do dispositivo.
 
 ### Pessoais
 
@@ -113,12 +112,12 @@ serviços:
 
 ### Contatar o Usuário
 
-Ao preencher o formulário de contato com os seus Dados, os usuários
+Ao preencher o formulário de feedback e suporte com os seus Dados, os usuários
 autorizam este Aplicativo a usar esses detalhes para responder aos pedidos de
-informações, cotação ou qualquer outro tipo de pedido como indicado pelo
+informações e suporte, cotação ou qualquer outro tipo de pedido como indicado pelo
 título do formulário.
 
-### Dados Pessoais coletados: e-mail, nome e sobrenome.
+### Dados Pessoais coletados: e-mail
 
 ### Estatísticas
 
@@ -133,19 +132,10 @@ atividades e compartilhá-los com outros serviços do Google.
 O Google pode usar os dados coletados para contextualizar e personalizar os
 anúncios de sua própria rede de publicidade.
 Dados Pessoais coletados: Cookie e Dados de Uso.
-Lugar de processamento: EUA – Política de Privacidade– Opt Out
-
-### Interações baseadas na localização
-
-Geolocation (Este Aplicativo)
-Este Aplicativo pode coletar, usar e compartilhar a localização de dados do
-usuário a fim de fornecer serviços baseados em localização.
-A maioria dos navegadores e dispositivos fornecem ferramentas para optar o
-não uso este recurso de padrão. Se a autorização explícita foi fornecida, os
-dados de localização do Usuário podem serem rastreado por este Aplicativo.
-Dados Pessoais coletados: posição geográfica.
+Lugar de processamento: EUA – Política de Privacidade– Opt Out.
 
 ### Permissões de dispositivos para acesso a Dados Pessoais
+
 
 Este Aplicativo solicita determinadas permissões dos Usuário que lhe permitem
 acessar os Dados do dispositivo do Usuário conforme descritos abaixo.
@@ -153,13 +143,11 @@ Permissões de dispositivos para acesso a Dados Pessoais (Este Aplicativo)
 Este Aplicativo solicita determinadas permissões dos Usuário que lhe permitem
 acessar os Dados do dispositivo do Usuário conforme descritos en este
 documento.
-Dados Pessoais coletados: Permissão de armazenamento, Permissão de
-compartilhamento de Bluetooth, Permissão de câmera, Permissão de localização
-aproximada (interrupta), Permissão de microfone, Permissão de sensores,
-Permissão de sensores de movimento e Permissão de SMS.4
+Dados Pessoais coletados: Permissão de armazenamento,  Permissão de câmera.
 
 ### Informações adicionais sobre a coleta e processamento de Dados
-Ação jurídica
+
+## Ação jurídica
 
 Os Dados Pessoais dos Usuários podem ser utilizados para fins jurídicos pelo
 Controlador de Dados em juízo ou nas etapas conducentes à possível ação jurídica
@@ -181,6 +169,7 @@ poderão coletar arquivos que gravam a interação com este Aplicativo (Logs do 
 ou usar, para este fim, outros Dados Pessoais (tais como endereço IP).
 
 ### As informações não contidas nesta política
+
 Mais detalhes sobre a coleta ou processamento de Dados Pessoais podem ser
 solicitados ao Controlador de Dados, a qualquer momento. Favor ver as informações de
 contato no início deste documento.
@@ -194,7 +183,7 @@ atualizados ou corrigidos, ou que sejam transformados em formato anônimo ou
 bloquear quaisquer dados mantidos em violação da lei, bem como se opor ao seu
 tratamento por quaisquer todas as razões legítimas. Os pedidos devem ser enviados
 para o Controlador de Dados usando a informação de contato fornecida acima.
-Este Aplicativo não suporta pedidos de “Não Me Rastreie”. 
+Este Aplicativo não suporta pedidos de “Não Me Rastreie”.
 Para determinar se qualquer um dos serviços de terceiros que utiliza honram solicitações
 de “Não Me Rastreie”, por favor leia as políticas de privacidade.
 
@@ -209,7 +198,7 @@ serviço (este Aplicativo) e pode solicitar ao Controlador de Dados que apague o
 Pessoais. Salvo disposição em contrário, a atual política de privacidade se aplica a todos
 os Dados Pessoais dos Usuários que o Controlador de Dados tiver.
 
-#Definições e referências jurídicas
+## Definições e referências jurídicas
 
 ## Dados Pessoais (ou Dados)
 
@@ -258,35 +247,30 @@ funcionamento e ao uso deste serviço. O Controlador de Dados, a menos que seja
 especificado de outra forma, é o Proprietário deste serviço (este Aplicativo)
 
 ## Este Aplicativo
+
 A ferramenta de hardware ou software pela qual os Dados Pessoais do usuário são
 coletados.
 
 ## Cookie
+
 Pequenas unidades de dados armazenados no dispositivo do Usuário
 
 ### Notificação Jurídica
+
 # Aviso aos Usuários Europeus: esta declaração de privacidade foi elaborada em
+
 cumprimento das obrigações nos termos do art. n.10 da Diretiva 95/46/CE, e de acordo
 com as disposições da Diretiva 2002/58/CE, tal como revisto pela Diretiva
 2009/136/CE, sobre o assunto de Cookies.
-Esta política de privacidade é apenas sobre este Aplicativo.7
+Esta política de privacidade é apenas sobre este Aplicativo.
 
-### Resumo da Política de privacidade
+## Estatísticas
 
-Os Dados Pessoais são coletados para os seguintes propósitos e
-usando os seguintes serviços:
-
-## Contatar o Usuário
-
-Formulário de contato Dados
-Pessoais: e-mail, nome e sobrenome
-
-### Estatísticas
 Google Analytics Dados Pessoais:
 Cookie e Dados de Uso
 
+## Permissões de dispositivos para acesso a Dados Pessoais
 
-### Permissões de dispositivos para acesso a Dados Pessoais
 
 Dados Pessoais: Permissão de armazenamento, Permissão de
 câmera.
