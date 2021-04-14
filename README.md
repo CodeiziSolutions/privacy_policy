@@ -209,12 +209,6 @@ serviço (este Aplicativo) e pode solicitar ao Controlador de Dados que apague o
 Pessoais. Salvo disposição em contrário, a atual política de privacidade se aplica a todos
 os Dados Pessoais dos Usuários que o Controlador de Dados tiver.
 
-## Informações sobre esta política de privacidade
-
-O Controlador de Dados é responsável por esta política de privacidade que está
-hospedada para futuras consultas no sítio eletrônico: http://www.3e60.com.br/
-privacidade
-
 #Definições e referências jurídicas
 
 ## Dados Pessoais (ou Dados)
